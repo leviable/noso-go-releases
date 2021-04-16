@@ -2,6 +2,8 @@
 
 ## Quickstart
 
+Download the latest release from the [Releases Page](https://github.com/leviable/noso-go-releases/releases)
+
 *NOTE* You should set `-cpu` to the maximum *PHYSICAL* cores on your computer. `go-miner` cannot use hyperthreading/hardware-threads, so setting `-cpu` higher than your *PHYSICAL* cores will likely reduce your overall hashrate.
 
 ```
